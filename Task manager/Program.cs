@@ -84,5 +84,6 @@ while (true)
         default:
             Console.WriteLine("Noto'g'ri tanlov. Iltimos, 1 dan 5 gacha bo'lgan raqamni kiriting.");
             break;
+
     }
 }
